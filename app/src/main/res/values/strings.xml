@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">3ListViewBasic</string>
+    <string-array name="arrMonhoc">
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+    </string-array>
 </resources>
